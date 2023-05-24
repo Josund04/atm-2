@@ -38,6 +38,7 @@ class Program
             Console.WriteLine("Menu:");
             Console.WriteLine("1. Skapa Konto");
             Console.WriteLine("2. Deposit");
+            Console.WriteLine("3. Menu");
             Console.WriteLine();
             Console.Write("Var snäll ock gör ett val: ");
     }
