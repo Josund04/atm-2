@@ -1,0 +1,5 @@
+C:\Users\KADM\Downloads\ATM-main2\obj\Debug\net5.0\ATM-main2.csproj.AssemblyReference.cache
+C:\Users\KADM\Downloads\ATM-main2\obj\Debug\net5.0\ATM-main2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KADM\Downloads\ATM-main2\obj\Debug\net5.0\ATM-main2.AssemblyInfoInputs.cache
+C:\Users\KADM\Downloads\ATM-main2\obj\Debug\net5.0\ATM-main2.AssemblyInfo.cs
+C:\Users\KADM\Downloads\ATM-main2\obj\Debug\net5.0\ATM-main2.csproj.CoreCompileInputs.cache
